@@ -1,0 +1,3 @@
+C:/Users/Piter/CLionProjects/task1.2/cmake-build-debug/CMakeFiles/task1_2.dir
+C:/Users/Piter/CLionProjects/task1.2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Piter/CLionProjects/task1.2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
