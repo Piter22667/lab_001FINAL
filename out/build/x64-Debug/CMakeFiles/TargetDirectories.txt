@@ -1,0 +1,3 @@
+C:/Users/Piter/CLionProjects/task2.6/out/build/x64-Debug/CMakeFiles/untitled1.dir
+C:/Users/Piter/CLionProjects/task2.6/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/Piter/CLionProjects/task2.6/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
