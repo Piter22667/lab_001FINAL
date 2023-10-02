@@ -1,10 +1,11 @@
 cmake_minimum_required(VERSION 3.26)
-project(task1_2)
+project(untitled1)
 
-set(CMAKE_CXX_STANDARD 14)
+set(CMAKE_CXX_STANDARD 17)
 
-add_executable(task1_2
-        list_arr.cpp
-        list_lst.cpp
-        main.cpp
+add_executable(untitled1 main.cpp
+        nabir.cpp
+        nabir.h
+        dice.cpp
+        dice.h
 )
