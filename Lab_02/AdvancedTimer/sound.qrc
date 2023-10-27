@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/sounds">
+        <file>E:/chrome downdload/alarms.wav</file>
+    </qresource>
+</RCC>

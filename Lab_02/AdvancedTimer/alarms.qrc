@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/alarms">
+        <file>E:/sounds/alarms.wav</file>
+    </qresource>
+</RCC>
