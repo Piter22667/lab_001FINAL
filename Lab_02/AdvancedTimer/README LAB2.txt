@@ -66,3 +66,5 @@ TimerModel::TimerModel(QObject *parent)
     : QObject{parent}
 конструктор класу. підключає сигна timeout для слота onTimerProccesing цього класу, та ініціалізує змінні seconds ,id для таймерів.
 
+Використання методів та класів повинно задовільняти Ваші умови.
+
